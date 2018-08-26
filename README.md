@@ -27,13 +27,13 @@ For further information visit us at [nxboost.org](https://nxboost.org/) or visit
 
 <table>
   <tr><th>Block Height</th><th>Reward Amount</th><th>Masternodes</th><th>Miners</th><th>DevFee</th></tr>
-  <tr><td>Block 2 - 86400</td><td>200 NXB</td><td>   Masternodes 40 NXB</td><td>Miners 160 NXB</td><td>0 NXB</td></tr>
-<tr><td>Block 86401 - 151200</td><td>150 NXB</td><td>  Masternodes 37,5 NXB</td><td>Miners 112,5 NXB</td><td>0 NXB</td></tr>
-<tr><td>Block 151201 - 225000</td><td>125 NXB</td><td>  Masternodes 37,5 NXB</td><td>Miners 87,5 NXB</td><td>0 NXB</td></tr>
-<tr><td>Block 225001 - 302400</td><td>125 NXB</td><td>  Masternodes 75 NXB</td><td>Miners 43,75 NXB</td><td>6,25 NXB</td></tr>
-<tr><td>Block 302401 - 345600</td><td>100 NXB</td><td>   Masternodes 60 NXB</td><td>Miners 35 NXB</td><td>5 NXB</td></tr>
-<tr><td>Block 345601 - 388800</td><td>75 NXB</td><td>      Masternodes 45 NXB</td><td>Miners 26,25 NXB</td><td>3,75 NXB</td></tr>
-<tr><td>Block 388801 - 475200</td><td>50 NXB</td><td>      Masternodes 30 NXB</td><td>Miners 17,5 NXB</td><td>2,5 NXB</td></tr>
+  <tr><td>Block 2 - 86400</td><td>80 NXB</td><td>   Masternodes 40 NXB</td><td>Miners 40 NXB</td><td>0 NXB</td></tr>
+<tr><td>Block 86401 - 151200</td><td>70 NXB</td><td>  Masternodes 38.5 NXB</td><td>Miners 31.5 NXB</td><td>0 NXB</td></tr>
+<tr><td>Block 151201 - 225000</td><td>60 NXB</td><td>  Masternodes 36 NXB</td><td>Miners 24 NXB</td><td>0 NXB</td></tr>
+<tr><td>Block 225001 - 302400</td><td>50 NXB</td><td>  Masternodes 35 NXB</td><td>Miners 15 NXB</td><td>6,25 NXB</td></tr>
+<tr><td>Block 302401 - 345600</td><td>40 NXB</td><td>   Masternodes 28 NXB</td><td>Miners 12 NXB</td><td>5 NXB</td></tr>
+<tr><td>Block 345601 - 388800</td><td>30 NXB</td><td>      Masternodes 21 NXB</td><td>Miners 9 NXB</td><td>3,75 NXB</td></tr>
+<tr><td>Block 388801 - 475200</td><td>10 NXB</td><td>      Masternodes 7 NXB</td><td>Miners 3 NXB</td><td>2,5 NXB</td></tr>
 </table>
 
 Masternode and staker rewards with PoS:
@@ -45,9 +45,9 @@ This means the more masternodes are in the system, the more staking gets attract
 _Proof of Stake will automatically be enabled at block 475201._
 <table>
 <tr><th>Block Height</th><th>Reward Amount</th>                  
-<tr><td>Block 475201 - 518400</td><td>50 NXB</td></tr>
-<tr><td>Block 518401 - 561600</td><td>25 NXB</td></tr>
-<tr><td>Block 561601 - 604800</td><td>10 NXB</td></tr>
+<tr><td>Block 475201 - 518400</td><td>5 NXB</td></tr>
+<tr><td>Block 518401 - 561600</td><td>3 NXB</td></tr>
+<tr><td>Block 561601 - 604800</td><td>2 NXB</td></tr>
 <tr><td>Block 604801 - infinite</td><td>5 NXB</td></tr>
 </table>
 

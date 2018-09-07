@@ -167,9 +167,9 @@ static const char UNUSED* nxboost_strings[] = {
                                    "Unable to locate enough Darksend denominated funds for this transaction."),
     QT_TRANSLATE_NOOP("nxboost-core", ""
                                    "Unable to locate enough Darksend non-denominated funds for this "
-                                   "transaction that are not equal 10000 NXBoost."),
+                                   "transaction that are not equal 999999 NXBoost."),
     QT_TRANSLATE_NOOP("nxboost-core", ""
-                                   "Unable to locate enough funds for this transaction that are not equal 10000 "
+                                   "Unable to locate enough funds for this transaction that are not equal 999999 "
                                    "NXBoost."),
     QT_TRANSLATE_NOOP("nxboost-core", ""
                                    "Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: "
@@ -205,10 +205,10 @@ static const char UNUSED* nxboost_strings[] = {
     QT_TRANSLATE_NOOP("nxboost-core", ""
                                    "You must specify a masternodeprivkey in the configuration. Please see "
                                    "documentation for help."),
-    QT_TRANSLATE_NOOP("nxboost-core", "(49095 could be used only on mainnet)"),
+    QT_TRANSLATE_NOOP("nxboost-core", "(49108 could be used only on mainnet)"),
     QT_TRANSLATE_NOOP("nxboost-core", "(default: %s)"),
     QT_TRANSLATE_NOOP("nxboost-core", "(default: 1)"),
-    QT_TRANSLATE_NOOP("nxboost-core", "(must be 49095 for mainnet)"),
+    QT_TRANSLATE_NOOP("nxboost-core", "(must be 49108 for mainnet)"),
     QT_TRANSLATE_NOOP("nxboost-core", "<category> can be:\n"),
     QT_TRANSLATE_NOOP("nxboost-core", "Accept command line and JSON-RPC commands"),
     QT_TRANSLATE_NOOP("nxboost-core", "Accept connections from outside (default: 1 if no -proxy or -connect)"),

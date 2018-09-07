@@ -167,9 +167,9 @@ static const char UNUSED* nxboost_strings[] = {
                                    "Unable to locate enough Darksend denominated funds for this transaction."),
     QT_TRANSLATE_NOOP("nxboost-core", ""
                                    "Unable to locate enough Darksend non-denominated funds for this "
-                                   "transaction that are not equal 10000 NXBoost."),
+                                   "transaction that are not equal 999999 NXBoost."),
     QT_TRANSLATE_NOOP("nxboost-core", ""
-                                   "Unable to locate enough funds for this transaction that are not equal 10000 "
+                                   "Unable to locate enough funds for this transaction that are not equal 999999 "
                                    "NXBoost."),
     QT_TRANSLATE_NOOP("nxboost-core", ""
                                    "Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: "

@@ -3759,8 +3759,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Alerta de NXBoost" admin@foo.com
         <translation>Los pares de la lista blanca no pueden ser excluidos por DoS y sus transacciones siempre se transmitirán, incluso si ya se encuentran en el grupo de memoria, útil e.g. para una pasarela</translation>
     </message>
     <message>
-        <source>(49095 could be used only on mainnet)</source>
-        <translation>(49095 sólo se puede usar en la red principal)</translation>
+        <source>(49108 could be used only on mainnet)</source>
+        <translation>(49108 sólo se puede usar en la red principal)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -4177,8 +4177,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Alerta de NXBoost" admin@foo.com
         <translation>La clave prinvada del nodo maestro no es válida. Por favor, consulte la  documentación.</translation>
     </message>
     <message>
-        <source>(must be49095 for mainnet)</source>
-        <translation>(debe ser49095 para la red principal)</translation>
+        <source>(must be49108 for mainnet)</source>
+        <translation>(debe ser49108 para la red principal)</translation>
     </message>
     <message>
         <source>Can't find random Masternode.</source>

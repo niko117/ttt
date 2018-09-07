@@ -3749,8 +3749,8 @@ for example: alertnotify=echo %%s | mail -s "NXBoost Alert" admin@foo.com
         <translation>Whitelisted не могат да бъдат DoS забранени и техните транзакции ще бъдат винаги предадени, дори ако вече са в  mempool, полезно напр. за gateway</translation>
     </message>
     <message>
-        <source>(49095 could be used only on mainnet)</source>
-        <translation>(49095 може да бъде използван в основната мрежа)</translation>
+        <source>(49108 could be used only on mainnet)</source>
+        <translation>(49108 може да бъде използван в основната мрежа)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -4167,8 +4167,8 @@ for example: alertnotify=echo %%s | mail -s "NXBoost Alert" admin@foo.com
         <translation>Невалиден частен ключ на Masternode. Моля вижте документацията.</translation>
     </message>
     <message>
-        <source>(must be49095 for mainnet)</source>
-        <translation>(трябва да е49095 за основната мрежа)</translation>
+        <source>(must be49108 for mainnet)</source>
+        <translation>(трябва да е49108 за основната мрежа)</translation>
     </message>
     <message>
         <source>Can't find random Masternode.</source>

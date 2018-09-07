@@ -3654,8 +3654,8 @@ https://www.transifex.com/nxboost-crypto/nxboost-wallet-translations/</translati
         <translation>Aviso: Por favor verifique que a data e a hora do computador está correcta! Se o relógio estiver errado o NXBoost Core não vai funcionar correctamente.</translation>
     </message>
     <message>
-        <source>(49095 could be used only on mainnet)</source>
-        <translation>(49095 apenas pode ser usado para mainnet)</translation>
+        <source>(49108 could be used only on mainnet)</source>
+        <translation>(49108 apenas pode ser usado para mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -4064,8 +4064,8 @@ https://www.transifex.com/nxboost-crypto/nxboost-wallet-translations/</translati
         <translation>masternodeprivkey inválida. Por favor reveja a documentação.</translation>
     </message>
     <message>
-        <source>(must be49095 for mainnet)</source>
-        <translation>(deve ser49095 para mainnet)</translation>
+        <source>(must be49108 for mainnet)</source>
+        <translation>(deve ser49108 para mainnet)</translation>
     </message>
     <message>
         <source>Can't find random Masternode.</source>

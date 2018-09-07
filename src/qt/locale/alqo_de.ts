@@ -3757,8 +3757,8 @@ zum Beispiel: alertnotify=echo %%s | mail -s \"NXBoost Alert\" admin@foo.com</tr
         <translation>Erlaubte Gegenstellen können nicht wegen DoS ausgeschlossen werden und ihre Transaktionen werden immer weitergeleitet, sogar wenn sie schon im Memory-Pool sind. Dies ist z.B. für Gateways nützlich.</translation>
     </message>
     <message>
-        <source>(49095 could be used only on mainnet)</source>
-        <translation>(49095 kann nur im Standardnetz benutzt werden)</translation>
+        <source>(49108 could be used only on mainnet)</source>
+        <translation>(49108 kann nur im Standardnetz benutzt werden)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -4176,8 +4176,8 @@ NXBoost Core wird heruntergefahren.</translation>
         <translation>Masternode-Geheimschlüssel (masternodeprivkey) ist ungültig. Siehe Dokumentation. </translation>
     </message>
     <message>
-        <source>(must be49095 for mainnet)</source>
-        <translation>(muss für Standardnetz49095 sein)</translation>
+        <source>(must be49108 for mainnet)</source>
+        <translation>(muss für Standardnetz49108 sein)</translation>
     </message>
     <message>
         <source>Can't find random Masternode.</source>

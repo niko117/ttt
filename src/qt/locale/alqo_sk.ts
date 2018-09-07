@@ -3757,8 +3757,8 @@ napríklad: alertnotify=echo %%s | mail -s "NXBoost Upozornenie" admin@foo.com
         <translation>Uzle na zoznam povolených nemôžu byť DoS zakázané a ich transakcie vždy postúpené ďalej, aj v prípade, ak sú už pamäťovej fronte. Užitočné napr. pre brány</translation>
     </message>
     <message>
-        <source>(49095 could be used only on mainnet)</source>
-        <translation>(49095 nemôže byť použité pre hlavnú sieť)</translation>
+        <source>(49108 could be used only on mainnet)</source>
+        <translation>(49108 nemôže byť použité pre hlavnú sieť)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -4175,7 +4175,7 @@ napríklad: alertnotify=echo %%s | mail -s "NXBoost Upozornenie" admin@foo.com
         <translation>Neplatný masternodeprivkey. Prosím pozrite do dokumentácie.</translation>
     </message>
     <message>
-        <source>(must be49095 for mainnet)</source>
+        <source>(must be49108 for mainnet)</source>
         <translation>(pre hlavnú sieť musí byť 9999)</translation>
     </message>
     <message>

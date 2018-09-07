@@ -1980,12 +1980,12 @@ Please check the address and try again.</source>
     </message>
     <message>
         <location line="+13"/>
-        <source>Use 2 separate masternodes to mix funds up to 10000 NXBoost</source>
+        <source>Use 2 separate masternodes to mix funds up to 999999 NXBoost</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>Use 8 separate masternodes to mix funds up to 10000 NXBoost</source>
+        <source>Use 8 separate masternodes to mix funds up to 999999 NXBoost</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1995,12 +1995,12 @@ Please check the address and try again.</source>
     </message>
     <message>
         <location line="+13"/>
-        <source>This option is the quickest and will cost about ~0.025 NXBoost to anonymize 10000 NXBoost</source>
+        <source>This option is the quickest and will cost about ~0.025 NXBoost to anonymize 999999 NXBoost</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>This option is moderately fast and will cost about 0.05 NXBoost to anonymize 10000 NXBoost</source>
+        <source>This option is moderately fast and will cost about 0.05 NXBoost to anonymize 999999 NXBoost</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2010,7 +2010,7 @@ Please check the address and try again.</source>
     </message>
     <message>
         <location line="+13"/>
-        <source>0.1 NXBoost per 10000 NXBoost you anonymize.</source>
+        <source>0.1 NXBoost per 999999 NXBoost you anonymize.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5268,12 +5268,12 @@ for example: alertnotify=echo %%s | mail -s &quot;NXBoost Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+2"/>
-        <source>Unable to locate enough Darksend non-denominated funds for this transaction that are not equal 10000 NXBoost.</source>
+        <source>Unable to locate enough Darksend non-denominated funds for this transaction that are not equal 999999 NXBoost.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 NXBoost.</source>
+        <source>Unable to locate enough funds for this transaction that are not equal 999999 NXBoost.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5333,8 +5333,8 @@ for example: alertnotify=echo %%s | mail -s &quot;NXBoost Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>(49095 could be used only on mainnet)</source>
-        <translation type="unfinished">(49095 could be used only on mainnet)</translation>
+        <source>(49108 could be used only on mainnet)</source>
+        <translation type="unfinished">(49108 could be used only on mainnet)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5348,7 +5348,7 @@ for example: alertnotify=echo %%s | mail -s &quot;NXBoost Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>(must be 49095 for mainnet)</source>
+        <source>(must be 49108 for mainnet)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
